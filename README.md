@@ -1,4 +1,4 @@
-# confetti.ndd.js
+# 🎉 confetti.ndd.js
 
 Tiny vanilla-JS canvas confetti rain. One 2.6KB file, zero dependencies, one function.
 
